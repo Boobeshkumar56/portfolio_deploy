@@ -12,7 +12,7 @@ const NavItems = () => {
     </ul>
   );
 };
-const nav = () => {
+const Nav = () => {
     const [isopen,setisopen]=useState(false);
 
   return (
@@ -39,4 +39,4 @@ const nav = () => {
   )
 }
 
-export default nav
+export default Nav
