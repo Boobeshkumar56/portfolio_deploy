@@ -12,7 +12,7 @@ import Laptop from "../Component/Laptop";
 import Rings from "../Component/Rings";
 import Cube  from "../Component/Cube";
 import Herocamera from "../Component/Herocamera";
-import Button from "../Component/button";
+import Button from "../Component/Button";
 const Hero = () => {
 
     // const controls=useControls("Hackerroom",{
