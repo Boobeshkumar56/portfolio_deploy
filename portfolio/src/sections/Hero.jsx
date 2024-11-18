@@ -7,7 +7,7 @@ import {Leva, useControls} from "leva"
 import { useMediaQuery } from "react-responsive";
 import { calculateSizes } from "../Component/contants";
 import Target from "../Component/Target";
-import Reactlogo from "../Component/reactlogo";
+import Reactlogo from "../Component/Reactlogo";
 import Laptop from "../Component/Laptop";
 import Rings from "../Component/Rings";
 import Cube  from "../Component/Cube";
